@@ -1,5 +1,5 @@
 # AI vs Human: Tic-Tac-Toe Research
-This project focuses on comparing various game-playing techniques, specifically between AI algorithms and human decision-making, using the Tic-Tac-Toe game as a testing platform.
+This Research focuses on comparing various game-playing techniques, specifically between AI algorithms and human decision-making, using the Tic-Tac-Toe game as a testing platform.
 
 In the initial phase, a basic comparison is made between AI and human performance, where AI is shown to be faster and more accurate, while human performance is more variable. Following this, a detailed table compares the speed, intelligence, and adaptability of different methods used in the game.
 
